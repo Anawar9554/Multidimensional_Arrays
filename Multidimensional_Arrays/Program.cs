@@ -3,6 +3,8 @@
 //The multidimensional array is also known as rectangular arrays in C#. It can be two dimensional or three dimensional.
 //The data is stored in tabular form (row * column) which is also known as matrix.
 
+// Lets See the Examle
+
 public class MultiArrayEx
 {
 	public static void Main(string[] args)
